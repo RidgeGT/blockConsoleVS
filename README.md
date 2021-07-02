@@ -16,3 +16,4 @@ A short recreation of a popular block game for education and Java warmup.
 * add main menu to select game mode
 * add hosting and online connections
 * Improve and add GUI for scores and timers.
+* Right side wall kick for Z and S is erroneous
