@@ -1,6 +1,10 @@
 # blockConsoleVS
 
 A short recreation of a popular block game for education and Java warmup.
+
+![shifting example](https://github.com/RidgeGT/blockConsoleVS/blob/main/examples/shift.gif)
+![rotating example](https://github.com/RidgeGT/blockConsoleVS/blob/main/examples/rotate.gif)
+![fill example](https://github.com/RidgeGT/blockConsoleVS/blob/main/examples/fill.gif)
 ## functionality
 * shifting left and right
 * rotation
